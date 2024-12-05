@@ -7,8 +7,6 @@ Dernière mise-à-jour le : [2024-12-05].
 
 ## Titre du jeu de données : Données provenant de recensement effectuer par l'INSEE durant divers années.
 
-Nous contacter si besoin
-
 # APERCU DES DONNEES ET FICHIER
 
 ## Convention de nommage des fichiers : donees_XXXX (pour les donnees)
@@ -18,3 +16,7 @@ Nous contacter si besoin
 
 
 ## Informations additionnelles : 
+
+#Contact : nshuti.bahembera@iut-dijon.u-bourgogne.fr ou anis.ghouas@iut-dijon.u-bourgogne.fr 
+
+Ce code a pour but de receuillir le nombre d'habitant present à auxerre sur la periode de 2008 à 2021 .
