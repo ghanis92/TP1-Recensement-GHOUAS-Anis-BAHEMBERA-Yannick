@@ -13,4 +13,4 @@ Dernière mise-à-jour le : [2024-12-05].
 
 #Contact : nshuti.bahembera@iut-dijon.u-bourgogne.fr ou anis.ghouas@iut-dijon.u-bourgogne.fr 
 
-Ce code a pour but de receuillir le nombre d'habitant present à auxerre sur la periode de 2008 à 2021 .
+Ce code a pour but de receuillir le nombre d'habitant present à auxerre sur la periode de 2008 à 2023 .
