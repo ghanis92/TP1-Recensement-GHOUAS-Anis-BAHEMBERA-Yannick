@@ -85,5 +85,5 @@ def vill(choix):
      
 print(vill(choix))
 figure()
-plot([ 2008, 2016, 2021, 2023],[,,,])
+#plot([ 2008, 2016, 2021, 2023],[,,,])
 show()
